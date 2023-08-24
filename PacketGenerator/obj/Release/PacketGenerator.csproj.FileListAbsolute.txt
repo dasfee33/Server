@@ -1,0 +1,15 @@
+C:\Users\김영상\Desktop\Server\PacketGenerator\bin\Release\PacketGenerator.exe
+C:\Users\김영상\Desktop\Server\PacketGenerator\bin\Release\PacketGenerator.deps.json
+C:\Users\김영상\Desktop\Server\PacketGenerator\bin\Release\PacketGenerator.runtimeconfig.json
+C:\Users\김영상\Desktop\Server\PacketGenerator\bin\Release\PacketGenerator.dll
+C:\Users\김영상\Desktop\Server\PacketGenerator\bin\Release\PacketGenerator.pdb
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.csproj.AssemblyReference.cache
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.AssemblyInfoInputs.cache
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.AssemblyInfo.cs
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.dll
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\refint\PacketGenerator.dll
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.pdb
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\PacketGenerator.genruntimeconfig.cache
+C:\Users\김영상\Desktop\Server\PacketGenerator\obj\Release\ref\PacketGenerator.dll
